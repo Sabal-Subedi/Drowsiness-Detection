@@ -1,9 +1,8 @@
 # Drowsiness Detection using Embedded System
+
 Author: Sabal Subedi
-
 Institution: Idaho State University, Department of Computer Science
-
-Contact: sabalsubedi@isu.edu
+Contact: subedisabal00@gmail.com
 
 ### Overview
 This is a real-time drowsiness detection system that combines computer vision with embedded Bluetooth Low Energy (BLE) communication. It leverages Python-based facial landmark analysis and an Arduino-based feedback system to proactively alert users to signs of fatigue.
