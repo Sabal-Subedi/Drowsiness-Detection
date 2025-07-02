@@ -1,6 +1,8 @@
 # Drowsiness Detection using Embedded System
 Author: Sabal Subedi
+
 Institution: Idaho State University, Department of Computer Science
+
 Contact: sabalsubedi@isu.edu
 
 ### Overview
@@ -47,7 +49,7 @@ When drowsiness is detected—based on prolonged eye closure or head nodding—a
 - pip install opencv-python mediapipe bleak
 - Python Computer Vision Setup
 - Clone the repository:
-- git clone https://github.com/yourusername/drowsiness-detection-system.git
+- git clone [https://github.com/Sabal-Subedi/Drowsiness-Detection]
 - cd drowsiness-detection-system
 
 #### Run the drowsiness detection script:
