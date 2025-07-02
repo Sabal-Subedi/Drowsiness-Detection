@@ -1,7 +1,7 @@
 # Drowsiness Detection using Embedded System
 
-Author: Sabal Subedi
-Institution: Idaho State University, Department of Computer Science
+Author: Sabal Subedi  
+Institution: Idaho State University, Department of Computer Science  
 Contact: subedisabal00@gmail.com
 
 ### Overview
@@ -61,11 +61,11 @@ When drowsiness is detected—based on prolonged eye closure or head nodding—a
     - Connect buzzer, LED, LCD, and button according to defined pins in the sketch.
 
 #### Hardware Connections
-Component	Arduino Pin
-Buzzer	    D3
-LED	        D4
-LCD	        I2C (SDA/SCL)
-Button	    D2
+Component	Arduino Pin  
+Buzzer	    D3  
+LED	        D4  
+LCD	        I2C (SDA/SCL)  
+Button	    D2  
 
 ### Usage
 - Launch the Python detection script.
